@@ -3,6 +3,7 @@ Hide file or folder with md5 hash
 
 # Storage Permission
 This application need permission to access storage for write / read file / folder.
+so you can give the permission on application setting.
 # Usage
 input field with path folder or file.
 Ex. /storage/emulated/0/folder or file.ext
