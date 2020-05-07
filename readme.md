@@ -1,3 +1,4 @@
+![alt text](https://github.com/OhoshiRingo/HIDE/blob/master/anjay.png?raw=true)
 # HIDE
 Hide file or folder with md5 hash
 
