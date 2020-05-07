@@ -10,3 +10,9 @@ or /sdcard/file or folder
 
 # Output folder
 /Storage/emulated/0/Received
+# Image
+
+# Main
+![alt text](https://github.com/OhoshiRingo/HIDE/blob/master/img2.png?raw=true)
+# Output
+![alt text](https://github.com/OhoshiRingo/HIDE/blob/master/img.png?raw=true)
